@@ -1,0 +1,15 @@
+@charset "ISO-8859-1";
+:root{
+    --hue-value-1: 159;
+    --hue-value-2: 230;
+    --main-color: hsl(var(--hue-value-1), 62%, 50%);
+    --button-hover-color: hsl(var(--hue-value-1), 57%, 53%);
+    --body-bg-color: hsl(var(--hue-value-1), 98%, 90%);
+    --border-color-2: hsl(var(--hue-value-1), 40%, 93%);
+    --shadow: 0 0 15px hsl(var(--hue-value-1), 40%, 55%);
+    --card-shadow: 0 0 15px hsl(var(--hue-value-1), 40%, 13%);
+    --body-gradient-bg-color-1: hsla(var(--hue-value-1), 100%, 50%, 0.2);
+    --body-gradient-bg-color-2: hsla(var(--hue-value-1), 100%, 80%, 0.4);
+    --decoration-bg-color-1: hsl(var(--hue-value-1), 100%, 70%);
+    --decoration-bg-color-2: hsl(var(--hue-value-1), 100%, 80%);
+}
